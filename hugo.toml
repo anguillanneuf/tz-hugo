@@ -1,0 +1,4 @@
+baseURL = 'https://studio--spinsync-lbijb.us-central1.hosted.app/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
